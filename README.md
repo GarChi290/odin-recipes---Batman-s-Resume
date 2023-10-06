@@ -1,1 +1,4 @@
-# odin-recipes---Batman-s-Resume
+﻿# odin-recipes---Batman-s-Resume
+
+
+This is my first project within the Odin Project. I’m hoping I can finish this quickly while also having done a good job and furthered my understanding how HTML and how to code. It’s currently 11:18 PM on October 2nd. Although the project is to make a sort of recipe book, I think I’ll find that to be boring and un-motivating to work on it. Instead, I’ll be making a sort of resume of Batman/Bruce Wayne’s accomplishments and credentials. This will be a rough list, not really in the exact format of a usual resume. I think I can finish this project come Friday of this week, giving me five days, but we will see. I’m already somehow 25% done with the course. I’ll probably move onto freecodecamp after this or go back to CS50. Both offer certifications that I’d like to be able to say that I earned, building up my own ‘Bruce Wayne’ type resume. 
